@@ -1,0 +1,14 @@
+{
+  "name": "template-tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind Template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./tailwind.css -o ./style.css --watch"
+  },
+  "author": "Nimitaya",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
