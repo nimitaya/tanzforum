@@ -1,7 +1,7 @@
 {
-  "name": "template-tailwind",
+  "name": "tanzforum",
   "version": "1.0.0",
-  "description": "Tailwind Template",
+  "description": "Website for local dance club",
   "main": "index.js",
   "scripts": {
     "dev": "npx tailwindcss -i ./tailwind.css -o ./style.css --watch"
